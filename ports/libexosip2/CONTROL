@@ -1,0 +1,5 @@
+Source: libexosip2
+Version: 5.1.0
+Homepage: http://savannah.nongnu.org/projects/exosip
+Description: eXosip is a library that hides the complexity of using the SIP protocol for mutlimedia session establishement
+Build-Depends: libosip2

@@ -1,0 +1,5 @@
+Source: jrtplib
+Version: 3.11.1
+Homepage: https://github.com/j0r1/JRTPLIB
+Description: JRTPLIB is an object-oriented RTP library written in C++
+Build-Depends: jthread

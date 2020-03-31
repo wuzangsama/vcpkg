@@ -1,0 +1,4 @@
+Source: jthread
+Version: 1.3.3
+Homepage: https://github.com/j0r1/JThread
+Description: The JThread package provides some classes to make use of threads easy on different platforms
